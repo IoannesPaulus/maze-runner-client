@@ -1,5 +1,4 @@
 # Maze runner client
-Maze runner REST client
 
 This is my solution to the coding task for the Zalando Technology contest @ BME Job Fair 2015 Spring.
 
