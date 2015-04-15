@@ -20,5 +20,7 @@ Your program should take two command line parameters: `code` (maze code) and `ur
 
 - My language choice was java.
 
+- I used a basic recursive algorithm to solve the task.
+
 ## Running the client
 After cloning and starting the server clone this project and start the application: `mvn clean test`.
